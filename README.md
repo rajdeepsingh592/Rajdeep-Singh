@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajdeep Singh</h1>
+![logo]()<h1 align="center">Hi 👋, I'm Rajdeep Singh</h1>
 <h3 align="center">A passionate AIML student from MIT, specializing in AIMl</h3>
 
 <!-- GIF Banner -->
