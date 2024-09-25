@@ -1,4 +1,4 @@
-![https://github.com/rajdeepsingh592/Rajdeep-Singh/blob/main/1.png<h1 align="center">Hi 👋, I'm Rajdeep Singh</h1>
+![logo](https://github.com/rajdeepsingh592/Rajdeep-Singh/blob/main/1.png)<h1 align="center">Hi 👋, I'm Rajdeep Singh</h1>
 <h3 align="center">A passionate AIML student from MIT, specializing in AIMl</h3>
 
 <!-- GIF Banner -->
