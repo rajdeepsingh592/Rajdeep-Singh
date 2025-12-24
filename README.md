@@ -1,71 +1,107 @@
-![logo](https://github.com/rajdeepsingh592/Rajdeep-Singh/blob/main/1.png)<h1 align="center">Hi 👋, I'm Rajdeep Singh</h1>
-<h3 align="center">A passionate AIML student from MIT, specializing in AIML</h3>
-
-<!-- GIF Banner -->
+<!-- ================= PROFILE BANNER ================= -->
 <p align="center">
-  <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" alt="GIF Banner" width="100%" height="250"/>
+  <img src="https://github.com/rajdeepsingh592/Rajdeep-Singh/blob/main/1.png" alt="Rajdeep Singh Banner" width="100%" />
 </p>
 
+<h1 align="center">Hey 👋 What's Up?</h1>
+<h2 align="center">Hi 👋, I'm Rajdeep Singh</h2>
+<h3 align="center">AIML | IoT | Robotics | Software Development Enthusiast 🚀</h3>
 
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rajdeepsingh&label=Profile%20views&color=blue&style=plastic" alt="rajdeepsingh" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajdeepsingh&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
-<h2 align="left">🌟 About Me:</h2>
-<ul>
-  <li>🚀 I'm currently working on IoT, electronics, and AI-based projects.</li>
-  <li>💡 Exploring new technologies and constantly trying to innovate in the fields of robotics and AI.</li>
-  <li>🎓 4th Year AIML student looking for new opportunities to apply my knowledge in real-world applications.</li>
-</ul>
+---
 
-<h2 align="left">🔗 Connect with me:</h2>
-<p align="left">
+## 🌟 About Me  
+
+- 🎓 **4th Year AIML Student** at **MIT**
+- 🤖 Working on **Artificial Intelligence, Machine Learning & IoT projects**
+- 🛠️ Strong interest in **Robotics, Automation & Smart Systems**
+- ☁️ Learning **Cloud & Scalable Backend Architectures**
+- 💼 Open for **Internships | Freelancing | Collaboration**
+
+---
+
+## 🧠 Tech Stack & Skills  
+
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,go,rust" height="55" />
+</p>
+
+### 🌐 Web & Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,graphql,tailwind,storybook" height="55" />
+</p>
+
+### 🤖 AI / ML / Computer Vision
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" height="55" />
+</p>
+
+### ☁️ Cloud & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,mysql" height="55" />
+</p>
+
+---
+
+## 🔗 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://dev.to" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>
   <a href="https://www.leetcode.com/rajdeepsingh5272" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
-<h2 align="left">🛠 Languages and Tools:</h2>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-</p>
+---
 
-<h2 align="left">📊 GitHub Stats:</h2>
+## 📊 GitHub Statistics  
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajdeepsingh&show_icons=true&locale=en" alt="rajdeepsingh" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajdeepsingh&show_icons=true&theme=dracula" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=rajdeepsingh&theme=dracula" height="160"/>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeepsingh&" alt="rajdeepsingh" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rajdeepsingh&theme=dracula&row=1&column=7"/>
 </p>
 
+---
+
+## 🟡 Contribution Activity (Animated)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" 
+       src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 🚀 Current Focus  
+
+- 🔥 Advanced **Machine Learning & Deep Learning**
+- 🤖 **IoT + AI Integration Projects**
+- 🌐 Full-Stack Development with **Next.js & Cloud**
+- 🧠 Problem Solving & DSA for Placements
+
+---
+
+### ⭐ *"Building intelligent systems today for a smarter tomorrow."*  
