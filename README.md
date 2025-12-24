@@ -1,152 +1,162 @@
-<!-- ===================== HERO SECTION ===================== -->
-<h1 align="center" style="
-  font-size: 42px;
-  text-shadow: 0 0 20px #00f7ff, 0 0 40px #00f7ff;
-">
-  Hi 👋, I'm Rajdeep Singh
-</h1>
-
-<p align="center" style="
-  font-size: 18px;
-  color: #9ae6ff;
-  text-shadow: 0 0 10px #00e1ff;
-">
-  AIML Engineer | IoT Innovator | Robotics Developer | Problem Solver 🚀
+<!-- ===================== HERO BANNER ===================== -->
+<p align="center">
+  <img src="https://github.com/rajdeepsingh592/Rajdeep-Singh/blob/main/1.png" width="100%" alt="Rajdeep Singh Banner"/>
 </p>
 
-<hr/>
-
-<!-- ===================== ABOUT ===================== -->
-<h2>🧠 About Me</h2>
-<ul>
-  <li>🎓 4th Year AIML Student</li>
-  <li>🤖 Building AI + IoT based real-world solutions</li>
-  <li>🌱 Smart Agriculture, Healthcare & Automation Projects</li>
-  <li>🚀 Focused on innovation, not just certificates</li>
-</ul>
-
-<hr/>
-
-<!-- ===================== SKILLS ===================== -->
-<h2>🚀 Languages & Tools I Use</h2>
+<h1 align="center">Hey 👋 What's Up?</h1>
+<h2 align="center">I'm Rajdeep Singh</h2>
+<h3 align="center">
+AIML Engineer | IoT Innovator | Robotics Developer | Problem Solver 🚀
+</h3>
 
 <p align="center">
-
-<!-- C -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-style="width:42px;height:42px;
-filter: drop-shadow(0 0 8px #A8B9CC) drop-shadow(0 0 16px #A8B9CC);" />
-
-<!-- Python -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-style="width:42px;height:42px;
-filter: drop-shadow(0 0 8px #FFD43B) drop-shadow(0 0 16px #FFD43B);" />
-
-<!-- JavaScript -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-style="width:42px;height:42px;
-filter: drop-shadow(0 0 8px #F7DF1E) drop-shadow(0 0 16px #F7DF1E);" />
-
-<!-- TypeScript -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-style="width:42px;height:42px;
-filter: drop-shadow(0 0 8px #3178C6) drop-shadow(0 0 16px #3178C6);" />
-
-<!-- React -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-style="width:42px;height:42px;
-filter: drop-shadow(0 0 8px #61DAFB) drop-shadow(0 0 16px #61DAFB);" />
-
-<!-- HTML -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-style="width:42px;height:42px;
-filter: drop-shadow(0 0 8px #E34F26) drop-shadow(0 0 16px #E34F26);" />
-
-<!-- CSS -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-style="width:42px;height:42px;
-filter: drop-shadow(0 0 8px #1572B6) drop-shadow(0 0 16px #1572B6);" />
-
-<!-- TensorFlow -->
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-style="width:42px;height:42px;
-filter: drop-shadow(0 0 8px #FF6F00) drop-shadow(0 0 16px #FF6F00);" />
-
-<!-- PyTorch -->
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
-style="width:42px;height:42px;
-filter: drop-shadow(0 0 8px #EE4C2C) drop-shadow(0 0 16px #EE4C2C);" />
-
-<!-- OpenCV -->
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
-style="width:42px;height:42px;
-filter: drop-shadow(0 0 8px #5C3EE8) drop-shadow(0 0 16px #5C3EE8);" />
-
-<!-- AWS -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-style="width:42px;height:42px;
-filter: drop-shadow(0 0 8px #FF9900) drop-shadow(0 0 16px #FF9900);" />
-
+  <img src="https://komarev.com/ghpvc/?username=rajdeepsingh&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
-<hr/>
+---
 
-<!-- ===================== PROJECTS ===================== -->
-<h2>🔥 Featured Projects</h2>
+## 🧑‍💻 About Me — Who Am I?
 
-<h3>🌱 Smart Agriculture Protection System</h3>
-<p>
-IoT based boundary protection system using sensors and buzzer to prevent animal intrusion in farms.
+🎓 **4th Year AIML Student at MIT**  
+🤖 Passionate about **Artificial Intelligence, IoT & Robotics**  
+🌍 Building **real-world solutions for agriculture, healthcare & automation**  
+🧠 Strong believer in **learning by building projects**  
+💼 Open for **Internships | Research | Freelance | Startup Collaboration**
+
+> ⚡ *“I don’t just learn technologies — I apply them to solve real problems.”*
+
+---
+
+## 🧠 Core Skills & Technologies
+
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,go,rust" height="55"/>
 </p>
 
-<h3>🤖 AI Face Detection Employee System</h3>
-<p>
-Face recognition system using OpenCV with automatic employee data fetch and PDF ID generation.
+### 🌐 Web, Backend & APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,graphql,tailwind,storybook" height="55"/>
 </p>
 
-<h3>🌿 Smart Plant Health Monitoring</h3>
-<p>
-ESP-based system monitoring soil moisture & humidity with OLED display and email alerts.
+### 🤖 AI / ML / Computer Vision
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" height="55"/>
 </p>
 
-<h3>🧠 Disease Prediction System</h3>
-<p>
-Machine Learning based disease prediction using symptoms and classification algorithms.
+### ☁️ Cloud, Databases & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,mysql" height="55"/>
 </p>
 
-<h3>🚁 Smart Irrigation & Drone Farming</h3>
-<p>
-Solar-powered irrigation system integrated with drone-based pesticide spraying.
-</p>
+---
 
-<hr/>
+## 🚀 Featured Projects (REAL WORK)
 
-<!-- ===================== SOCIAL ===================== -->
-<h2>⚡️ Where to Find Me</h2>
+### 🌱 1. Smart Agriculture Protection System (IoT)
+**Tech:** Arduino / ESP | Touch Sensor | Buzzer | IoT  
+
+🔹 Designed a **field boundary security system** using touch sensors  
+🔹 Detects animals or intrusions touching boundary wire  
+🔹 Instantly triggers **buzzer alert** to protect crops  
+🔹 Low-cost & farmer-friendly solution  
+
+📌 *Use Case:* Prevents crop damage in rural farming areas  
+
+---
+
+### 🤖 2. AI-Based Face Detection & Employee Management System
+**Tech:** Python | OpenCV | Tkinter | MySQL  
+
+🔹 Face recognition using **computer vision**  
+🔹 Employee data auto-fetch on face scan  
+🔹 Generates **ID card & PDF reports**  
+🔹 Dark themed GUI with 3D buttons  
+
+📌 *Use Case:* Offices, colleges & secure premises  
+
+---
+
+### 🌿 3. Smart Plant Health Monitoring System
+**Tech:** ESP8266 | DHT11 | Soil Sensor | OLED | Email Alerts  
+
+🔹 Real-time monitoring of **soil moisture & humidity**  
+🔹 OLED display for live sensor data  
+🔹 Automated **email alerts** when values go below threshold  
+🔹 Fully IoT enabled  
+
+📌 *Use Case:* Smart farming & home gardens  
+
+---
+
+### 🧠 4. AI Disease Prediction System
+**Tech:** Python | Machine Learning | Data Analysis  
+
+🔹 Predicts diseases based on user symptoms  
+🔹 Uses ML classification algorithms  
+🔹 High accuracy & fast predictions  
+🔹 Designed for early diagnosis  
+
+📌 *Use Case:* Healthcare & telemedicine  
+
+---
+
+### 🚁 5. Smart Irrigation & Drone-Based Farming System
+**Tech:** IoT | Sensors | Solar Power | Mobile App  
+
+🔹 Automated irrigation using soil & weather data  
+🔹 Solar-powered smart system  
+🔹 Drone-based pesticide spraying  
+🔹 Mobile app controlled  
+
+📌 *Use Case:* Precision agriculture & smart farming  
+
+---
+
+## 📊 GitHub Performance
 
 <p align="center">
-<a href="https://x.com/Rajdeep25651752">
-  <img src="https://img.shields.io/badge/Twitter-X-000000?style=for-the-badge&logo=x" />
-</a>
-
-<a href="https://dev.to/rajdeep_singh_e6717a6d98b">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to" />
-</a>
-
-<a href="https://www.linkedin.com/in/rajdeep-singh-9318a2257">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://www.instagram.com/rajdeepsingh592">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajdeepsingh&show_icons=true&theme=dracula" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=rajdeepsingh&theme=dracula" height="170"/>
 </p>
 
-<hr/>
-
-<p align="center" style="
-font-size:16px;
-text-shadow:0 0 10px #00f7ff;
-">
-✨ “Code. Build. Innovate. Repeat.” ✨
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajdeepsingh&theme=dracula&row=1&column=7"/>
 </p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://twitter.com">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/>
+  </a>
+  <a href="https://www.leetcode.com/rajdeepsingh5272">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+  </a>
+  <a href="https://dev.to">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to"/>
+  </a>
+</p>
+
+---
+
+## 🟡 Contribution Graph (Animated)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+       src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+### 💡 *“Code. Build. Innovate. Repeat.”*  
+### 🚀 Future AIML Engineer | Innovator | Problem Solver  
